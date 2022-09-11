@@ -1,7 +1,7 @@
 {
   "name": "eyenapple-api",
   "version": "0.0.0",
-  "description": "TypeScript + MikroORM + MongoDB + Express API Server",
+  "description": "TypeScript + MikroORM + Postgresql + Express API Server",
   "author": "",
   "license": "ISC",
   "scripts": {
